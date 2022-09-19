@@ -1,0 +1,105 @@
+.header_box{
+    border-bottom: 3px solid lightgray;
+    font-weight: bold;
+    margin-bottom: 20px;
+    
+    
+}
+.lista-habilidades{
+    margin-top: 5px;
+}
+.colizq li{
+    list-style: none;
+    
+    display: flex;
+    justify-content:start;
+    margin-top: 5px;
+    align-items: center;
+}
+
+.progressbar{
+    border: 2px solid tomato;
+    
+}
+.header{
+    height: 100px;
+    background-color: gray;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    
+}
+*{
+    margin: 0;
+    padding: 0;
+    font-size: 14px;
+}
+
+.img_perfil{
+    margin-top: -130px;
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    background-image: url('https://img.freepik.com/foto-gratis/retrato-hombre-caucasico-alegre_53876-13440.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border: solid 5px gray;
+    margin-bottom: 60px;
+    margin-left: 0px;
+}
+
+/* .colizq{
+    margin-right: 300px;
+} */
+
+body{
+
+   margin: auto;
+   
+   
+}
+i{
+    margin-right: 10px;
+    color: gray;
+}
+.text-justify {
+    text-align: start;
+  }
+
+.place{
+    font-style: italic;
+}
+
+.container{
+    margin: 0px;
+    padding: 0px;
+}
+.curriculumA4{
+    
+    width: 75%;
+    margin: auto;
+    border: solid black 3px;
+    background-color: white;
+    
+    margin-top: 50px;
+    padding-bottom: 30px;
+    margin-bottom: 90px;
+}
+body{
+    background-color:#800000;
+    
+}
+
+.progress-bar{
+    background-color: gray;
+}
+
+@media only screen and (max-width: 600px) {
+    .header{
+       display:flex;
+       justify-content: end;
+       padding-right: 50px;
+       
+    }
+  }
