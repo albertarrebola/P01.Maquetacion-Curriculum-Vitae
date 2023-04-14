@@ -1,3 +1,3 @@
 Práctica de universidad
 
-Ejercicio de maquetación usando HTML, CSS, BOOTSRAP 5
+Ejercicio de maquetación responsive usando HTML, CSS, BOOTSRAP 5
